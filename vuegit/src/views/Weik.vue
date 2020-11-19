@@ -1,5 +1,5 @@
 <template>
-    $END$
+    <div>你好柯哥</div>
 </template>
 
 <script>
