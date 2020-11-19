@@ -1,5 +1,5 @@
 <template>
-    $END$
+    <div>时候都会在</div>
 </template>
 
 <script>
