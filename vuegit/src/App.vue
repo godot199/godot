@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div id="nav">
-      <router-link to="/">Home</router-link> |
+      <router-link to="/">你好啊项目经理，尊敬的伟珂先生</router-link> |
       <router-link to="/about">About</router-link>
     </div>
     <router-view/>
