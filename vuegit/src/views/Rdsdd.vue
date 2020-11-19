@@ -1,10 +1,10 @@
 <template>
-    <div>你好柯哥</div>
+    $END$
 </template>
 
 <script>
     export default {
-        name: "Weik"
+        name: "Rdsdd"
     }
 </script>
 
