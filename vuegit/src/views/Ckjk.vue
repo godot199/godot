@@ -1,5 +1,5 @@
 <template>
-    $END$
+    <div>工作完成</div>
 </template>
 
 <script>
